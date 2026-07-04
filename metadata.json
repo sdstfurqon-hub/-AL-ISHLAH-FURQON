@@ -1,0 +1,6 @@
+{
+  "name": "PPTA Enterprise v3",
+  "description": "Sistem Aplikasi Pesantren Modern PPTA Enterprise v3 dengan Web Dashboard dan Simulator Flutter Responsive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
